@@ -1,0 +1,5 @@
+/* 全体のフォントをメイリオに設定 */
+section {
+    font-family: 'Meiryo', sans-serif;
+    background-color: red;
+  }
